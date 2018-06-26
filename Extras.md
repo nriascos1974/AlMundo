@@ -4,4 +4,5 @@
 - Dar alguna solución sobre qué pasa con una llamada cuando entran más de 10 llamadas concurrentes.
 
 Se utilizó un "PriorityBlockingQueue", para sacar a los empleados disponibles de una queue priorizada, y así garantizar que los primeros en atender una llamada sean los Operadores, luego los Supervisores y por último los Directores. Ademas, si no hay empleados en la queue, el metodo "TAKE" bloquea el flujo hasta que algun empleado vuleva a la queue para continuar el flujo.
-Por eso, en ambos casos, tanto si no hay un empleado libre o hay 10 llamadas concurrentes, siempre que haya una empleado disponible, se atiende la llamada, sino quedará la llamada a la espera de que algun empleado vuelva a estar disponible.
+
+Siempre que haya una empleado disponible, se atiende la llamada, sino esta quedará a la espera de que algun empleado vuelva a estar disponible.

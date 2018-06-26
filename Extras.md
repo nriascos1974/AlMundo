@@ -1,4 +1,4 @@
-## Puntos Extras
+# Puntos Extras
 
 - Dar alguna solución sobre qué pasa con una llamada cuando no hay ningún empleado libre.
 - Dar alguna solución sobre qué pasa con una llamada cuando entran más de 10 llamadas concurrentes.

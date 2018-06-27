@@ -1,0 +1,75 @@
+2018-06-27 00:34:55 INFO  Dispatcher:46 - Llamada entrante No. 1 Asignada a: Operator #1
+	2018-06-27 00:34:55 INFO  Dispatcher:46 - Llamada entrante No. 6 Asignada a: Supervisor #0
+	2018-06-27 00:34:55 INFO  Dispatcher:46 - Llamada entrante No. 7 Asignada a: Operator #2
+	2018-06-27 00:34:55 INFO  Dispatcher:46 - Llamada entrante No. 5 Asignada a: Operator #5
+	2018-06-27 00:34:55 INFO  Dispatcher:46 - Llamada entrante No. 4 Asignada a: Operator #6
+	2018-06-27 00:34:55 INFO  Dispatcher:46 - Llamada entrante No. 2 Asignada a: Operator #4
+	2018-06-27 00:34:55 INFO  Dispatcher:46 - Llamada entrante No. 3 Asignada a: Operator #3
+	2018-06-27 00:34:55 INFO  Dispatcher:46 - Llamada entrante No. 0 Asignada a: Operator #0
+	2018-06-27 00:35:00 INFO  Dispatcher:65 - Finalizada llamada No. 2 Asignada a: Operator #4 Duración: 5128
+	2018-06-27 00:35:02 INFO  Dispatcher:65 - Finalizada llamada No. 5 Asignada a: Operator #5 Duración: 7386
+	2018-06-27 00:35:03 INFO  Dispatcher:65 - Finalizada llamada No. 4 Asignada a: Operator #6 Duración: 8034
+	2018-06-27 00:35:03 INFO  Dispatcher:65 - Finalizada llamada No. 1 Asignada a: Operator #1 Duración: 8160
+	2018-06-27 00:35:03 INFO  Dispatcher:65 - Finalizada llamada No. 6 Asignada a: Supervisor #0 Duración: 8410
+	2018-06-27 00:35:04 INFO  Dispatcher:65 - Finalizada llamada No. 3 Asignada a: Operator #3 Duración: 8743
+	2018-06-27 00:35:05 INFO  Dispatcher:65 - Finalizada llamada No. 7 Asignada a: Operator #2 Duración: 9668
+	2018-06-27 00:35:05 INFO  Dispatcher:65 - Finalizada llamada No. 0 Asignada a: Operator #0 Duración: 9777
+	2018-06-27 00:35:05 INFO  Dispatcher:46 - Llamada entrante No. 0 Asignada a: Operator #0
+	2018-06-27 00:35:05 INFO  Dispatcher:46 - Llamada entrante No. 2 Asignada a: Operator #1
+	2018-06-27 00:35:05 INFO  Dispatcher:46 - Llamada entrante No. 1 Asignada a: Operator #3
+	2018-06-27 00:35:05 INFO  Dispatcher:46 - Llamada entrante No. 3 Asignada a: Operator #4
+	2018-06-27 00:35:05 INFO  Dispatcher:46 - Llamada entrante No. 5 Asignada a: Operator #5
+	2018-06-27 00:35:05 INFO  Dispatcher:46 - Llamada entrante No. 6 Asignada a: Operator #6
+	2018-06-27 00:35:05 INFO  Dispatcher:46 - Llamada entrante No. 7 Asignada a: Operator #2
+	2018-06-27 00:35:05 INFO  Dispatcher:46 - Llamada entrante No. 8 Asignada a: Supervisor #0
+	2018-06-27 00:35:05 INFO  Dispatcher:46 - Llamada entrante No. 9 Asignada a: Supervisor #1
+	2018-06-27 00:35:05 INFO  Dispatcher:46 - Llamada entrante No. 4 Asignada a: Director #0
+	2018-06-27 00:35:10 INFO  Dispatcher:65 - Finalizada llamada No. 9 Asignada a: Supervisor #1 Duración: 5161
+	2018-06-27 00:35:10 INFO  Dispatcher:46 - Llamada entrante No. 10 Asignada a: Supervisor #1
+	2018-06-27 00:35:10 INFO  Dispatcher:65 - Finalizada llamada No. 2 Asignada a: Operator #1 Duración: 5321
+	2018-06-27 00:35:10 INFO  Dispatcher:46 - Llamada entrante No. 11 Asignada a: Operator #1
+	2018-06-27 00:35:11 INFO  Dispatcher:65 - Finalizada llamada No. 0 Asignada a: Operator #0 Duración: 5677
+	2018-06-27 00:35:11 INFO  Dispatcher:65 - Finalizada llamada No. 1 Asignada a: Operator #3 Duración: 6250
+	2018-06-27 00:35:12 INFO  Dispatcher:65 - Finalizada llamada No. 8 Asignada a: Supervisor #0 Duración: 6929
+	2018-06-27 00:35:12 INFO  Dispatcher:65 - Finalizada llamada No. 4 Asignada a: Director #0 Duración: 7546
+	2018-06-27 00:35:13 INFO  Dispatcher:65 - Finalizada llamada No. 7 Asignada a: Operator #2 Duración: 8459
+	2018-06-27 00:35:14 INFO  Dispatcher:65 - Finalizada llamada No. 6 Asignada a: Operator #6 Duración: 8890
+	2018-06-27 00:35:14 INFO  Dispatcher:65 - Finalizada llamada No. 3 Asignada a: Operator #4 Duración: 9610
+	2018-06-27 00:35:15 INFO  Dispatcher:65 - Finalizada llamada No. 5 Asignada a: Operator #5 Duración: 9833
+	2018-06-27 00:35:17 INFO  Dispatcher:65 - Finalizada llamada No. 10 Asignada a: Supervisor #1 Duración: 6869
+	2018-06-27 00:35:19 INFO  Dispatcher:65 - Finalizada llamada No. 11 Asignada a: Operator #1 Duración: 8678
+	2018-06-27 00:35:19 INFO  Dispatcher:46 - Llamada entrante No. 1 Asignada a: Operator #0
+	2018-06-27 00:35:19 INFO  Dispatcher:46 - Llamada entrante No. 0 Asignada a: Operator #3
+	2018-06-27 00:35:19 INFO  Dispatcher:46 - Llamada entrante No. 4 Asignada a: Operator #6
+	2018-06-27 00:35:19 INFO  Dispatcher:46 - Llamada entrante No. 7 Asignada a: Supervisor #0
+	2018-06-27 00:35:19 INFO  Dispatcher:46 - Llamada entrante No. 8 Asignada a: Supervisor #1
+	2018-06-27 00:35:19 INFO  Dispatcher:46 - Llamada entrante No. 2 Asignada a: Operator #1
+	2018-06-27 00:35:19 INFO  Dispatcher:46 - Llamada entrante No. 9 Asignada a: Director #0
+	2018-06-27 00:35:19 INFO  Dispatcher:46 - Llamada entrante No. 6 Asignada a: Operator #2
+	2018-06-27 00:35:19 INFO  Dispatcher:46 - Llamada entrante No. 5 Asignada a: Operator #5
+	2018-06-27 00:35:19 INFO  Dispatcher:46 - Llamada entrante No. 3 Asignada a: Operator #4
+	2018-06-27 00:35:25 INFO  Dispatcher:65 - Finalizada llamada No. 0 Asignada a: Operator #3 Duración: 5650
+	2018-06-27 00:35:25 INFO  Dispatcher:65 - Finalizada llamada No. 2 Asignada a: Operator #1 Duración: 5796
+	2018-06-27 00:35:25 INFO  Dispatcher:65 - Finalizada llamada No. 6 Asignada a: Operator #2 Duración: 6439
+	2018-06-27 00:35:25 INFO  Dispatcher:65 - Finalizada llamada No. 1 Asignada a: Operator #0 Duración: 6470
+	2018-06-27 00:35:26 INFO  Dispatcher:65 - Finalizada llamada No. 3 Asignada a: Operator #4 Duración: 6987
+	2018-06-27 00:35:26 INFO  Dispatcher:65 - Finalizada llamada No. 8 Asignada a: Supervisor #1 Duración: 7516
+	2018-06-27 00:35:27 INFO  Dispatcher:65 - Finalizada llamada No. 5 Asignada a: Operator #5 Duración: 7638
+	2018-06-27 00:35:27 INFO  Dispatcher:65 - Finalizada llamada No. 7 Asignada a: Supervisor #0 Duración: 8205
+	2018-06-27 00:35:27 INFO  Dispatcher:65 - Finalizada llamada No. 9 Asignada a: Director #0 Duración: 8327
+	2018-06-27 00:35:29 INFO  Dispatcher:65 - Finalizada llamada No. 4 Asignada a: Operator #6 Duración: 9919
+	2018-06-27 00:35:29 INFO  Dispatcher:46 - Llamada entrante No. 0 Asignada a: Operator #0
+	2018-06-27 00:35:29 INFO  Dispatcher:46 - Llamada entrante No. 1 Asignada a: Operator #1
+	2018-06-27 00:35:29 INFO  Dispatcher:46 - Llamada entrante No. 2 Asignada a: Operator #3
+	2018-06-27 00:35:29 INFO  Dispatcher:46 - Llamada entrante No. 4 Asignada a: Operator #4
+	2018-06-27 00:35:29 INFO  Dispatcher:46 - Llamada entrante No. 3 Asignada a: Operator #2
+	2018-06-27 00:35:29 INFO  Dispatcher:46 - Llamada entrante No. 6 Asignada a: Operator #5
+	2018-06-27 00:35:29 INFO  Dispatcher:46 - Llamada entrante No. 5 Asignada a: Operator #6
+	2018-06-27 00:35:34 INFO  Dispatcher:65 - Finalizada llamada No. 4 Asignada a: Operator #4 Duración: 5325
+	2018-06-27 00:35:35 INFO  Dispatcher:65 - Finalizada llamada No. 3 Asignada a: Operator #2 Duración: 6446
+	2018-06-27 00:35:36 INFO  Dispatcher:65 - Finalizada llamada No. 0 Asignada a: Operator #0 Duración: 6766
+	2018-06-27 00:35:36 INFO  Dispatcher:65 - Finalizada llamada No. 2 Asignada a: Operator #3 Duración: 7218
+	2018-06-27 00:35:37 INFO  Dispatcher:65 - Finalizada llamada No. 5 Asignada a: Operator #6 Duración: 7994
+	2018-06-27 00:35:37 INFO  Dispatcher:65 - Finalizada llamada No. 1 Asignada a: Operator #1 Duración: 8457
+	2018-06-27 00:35:38 INFO  Dispatcher:65 - Finalizada llamada No. 6 Asignada a: Operator #5 Duración: 9386
+	
